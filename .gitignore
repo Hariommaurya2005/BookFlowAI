@@ -1,0 +1,16 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/coverage/
+
+# Local environment files (keep example templates)
+**/.env
+**/.env.*
+!**/.env.example
+
+# Runtime logs and local OS/editor files
+**/logs/
+*.log
+.DS_Store
+.vscode/
+.idea/
